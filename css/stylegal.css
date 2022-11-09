@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color:darkblue;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+h2 {
+    color:lavender;
+    text-align: center;
+}
+
+a{
+    font-size: 25px;
+    color: dodgerblue;
+    ;
+}
+
+:visited {
+    color:blueviolet;
+}
+
+.voltar {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    border: 2px dashed rgb(0, 53, 71);
+    margin: 5px;
+    padding: 5px;
+}

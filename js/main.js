@@ -1,0 +1,1 @@
+alert('Antes de navegar pela minha página, esteja ciente de que o choro é livre e o Jão me pertence.')
