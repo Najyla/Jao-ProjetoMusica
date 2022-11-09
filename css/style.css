@@ -7,16 +7,6 @@ body{
     display: flex;
 }
 
-.menu-nav {
-    width: 15vw;
-    height: 100vh;
-    background-color: deeppink;
-    /* background-color: palevioletred; */
-    /* background-color: rgb(146, 0, 70);
-    background-color:hotpink; */
-    display: flex;
-}
-
 .content {
     width: 85vw;
 }
